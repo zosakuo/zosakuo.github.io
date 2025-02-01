@@ -28,7 +28,7 @@ jobs:
           uses: peaceiris/actions-gh-pages@v4
           with:
               PERSONAL_TOKEN: ${{ secrets.HUGO_TOKEN }}
-              EXTERNAL_REPOSITORY: kkmmss138138/kkmmss138138.github.io
-              PUBLISH_BRANCH: main
+              EXTERNAL_REPOSITORY: zosakuo/zosakuo.github.io
+              PUBLISH_BRANCH: gh-pages
               PUBLISH_DIR: ./public
               commit_message: auto deploy
