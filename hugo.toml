@@ -1,5 +1,5 @@
 # Hugo 基本變數設定
-baseurl = "https://example.org/"         # 站點的基底網址，建議在發佈時使用正式域名
+baseurl = "zosakuo.github.io/"         # 站點的基底網址，建議在發佈時使用正式域名
 languageCode = "zh-TW"                   # 語言代碼，此處設定為繁體中文（台灣）
 title = "郭上蓮的Liferegen"              # 網站標題，會顯示在瀏覽器標籤及部分版面上
 theme = "hugo-theme-bootstrap4-blog"     # 所使用的主題名稱，必須與 themes 目錄下的主題名稱一致
