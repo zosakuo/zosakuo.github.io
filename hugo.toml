@@ -1,0 +1,97 @@
+# Hugo 基本變數設定
+baseurl = "https://example.org/"         # 站點的基底網址，建議在發佈時使用正式域名
+languageCode = "zh-TW"                   # 語言代碼，此處設定為繁體中文（台灣）
+title = "郭上蓮的Liferegen"              # 網站標題，會顯示在瀏覽器標籤及部分版面上
+theme = "hugo-theme-bootstrap4-blog"     # 所使用的主題名稱，必須與 themes 目錄下的主題名稱一致
+
+paginate = 5                             # 列表頁面（例如首頁、分類頁）每頁顯示的文章數量
+summaryLength = 50                       # 摘要的預設字數，用於列表頁面文章預覽的截斷字數
+
+# 如果需要自訂版權聲明，請取消下面的註解並修改文字內容
+# copyright = "Except where otherwise noted, content on this site is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/)."
+
+# 如果啟用 Google Analytics 或 Disqus 評論系統，
+# 可取消下方註解並填寫相應的代碼：
+# googleAnalytics = "UA-123-45"
+# disqusShortname = "XYW"
+
+
+[permalinks]
+  # 文章 (posts) 的永久連結格式：以年份、月份及文章標題組成網址
+  posts = "/:year/:month/:filename/"
+  # 單一頁面 (page) 的永久連結格式：使用自定義的 slug
+  page = "/:filename/"
+
+
+[[menu.sidebar]]
+  name = "痞客邦"                      # 側邊欄菜單項目名稱
+  url = "https://zosakuo.pixnet.net/blog"  # 對應的連結網址
+
+[[menu.sidebar]]
+# 如果需要額外添加側邊欄項目，可取消以下註解：
+# name = "Link 2"
+# url = "https://example.org"
+
+# 以下為導航列 (navbar) 菜單設定，預設為註解狀態
+#[[menu.navbar]]
+#  name = "Link 1"
+#  url = "https://example.org"
+
+
+# 主題專屬變數設定
+[params]
+  # 站點作者名稱，通常用於顯示在頁尾或作者介紹中
+  author = "郭上蓮"
+
+  # 網站描述或副標題，可使用 Markdown 格式撰寫，
+  # 此內容可能會顯示於首頁介紹區或 meta 標籤中
+  description = "我關於Liferegen的介紹"
+
+  # 若需要控制是否顯示頁首 (header)，可透過此參數設定（預設為顯示）
+  # header_visible = true
+
+  # 設定日期格式，使用 Go 語言的時間格式，例：2006年1月2號
+  date_format = "2006年1月2號"
+
+  # 以下為各大網站管理工具的驗證碼（如 Google、Bing、Yandex），
+  # 若有需要驗證網站所有權則取消註解並填入正確驗證碼
+  # google_verify_meta = "BAi57DROASu4b2mkVNA_EyUsobfA7Mq8BmSg7Rn-Zp9"
+  # bing_verify_meta = "3DA353059F945D1AA256B1CD8A3DA847"
+  # yandex_verify_meta = "66b077430f35f04a"
+
+  # 若您的網站需要符合歐盟 Cookie 同意規範，可設定一個提供詳細 Cookie 資訊的連結頁面
+  # cookie_consent_info_url = "/cookie-information/"
+  # cookie_consent_info_url = "http://cookiesandyou.com"
+
+  # 是否在文章或頁面上顯示社交分享圖示，預設為 true
+  # sharingicons = true
+
+  # 控制在列表頁面中顯示文章摘要而非全文，預設為 true
+    truncate = true
+
+  # 控制是否禁用 CSS/JS 資源的 Subresource Integrity (SRI) 驗證，
+  # 若您使用 CDN 而無法控制資源快取，可設為 true
+  # disable_sri = false
+
+  [params.sidebar]
+    # 側邊欄「關於」區塊的內容，支援 Markdown 格式，可用來介紹網站或作者
+    about = "LifeRegen是一個專注於抗衰老的護膚品牌，旨在增強肌膚的自然防禦，改善衰老跡象。"
+
+    # 設定側邊欄中顯示的最近文章數量（預設通常為 5），可依需求調整
+    # num_recent_posts = 2
+
+  [params.social]
+    # 社交媒體相關設定，例如 Twitter 帳號，用於 Twitter 卡片或其他社交認證顯示
+    twitter = "username"
+
+# Hugo 多語言支援（僅在需要多語言網站時啟用）
+DefaultContentLanguage = "zh-Hant-TW"
+
+# 若網站需要支援多種語言，可取消下方註解並設定各語言參數
+#[languages.en]
+#[languages.bg]
+  # 例如，設定保加利亞語的日期格式
+  # date_format = "02.01.2006"
+
+# 以下為 vim 編輯器的設定：ts 表示 tab 寬度、sw 表示縮排寬度、et 表示展開 tab 為空格
+# vim: ts=2 sw=2 et
