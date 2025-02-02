@@ -30,21 +30,21 @@ Juvenate 系列中的核心成分專為加強肌膚屏障設計，有效抵禦�
 1. **LifeRegen Juvenate重生之秘活顏日霜**
    - 功效：深層保濕、修復乾燥肌膚。
    - 使用建議：早晚清潔後取適量塗抹於臉部與頸部。
-   - 價格：US$40 ≒ NT$1,300 / 30mL
+   - 價格：US$40 ≈ NT$1,300 / 30mL
 
    ![LifeRegen Juvenate 系列](https://hongsheng.tw/img/liferegen/main/daycreamjarflower.webp "LifeRegen Juvenate 保濕修復霜")  
 
 2. **LifeRegen Juvenate重生之秘活顏精華露**
    - 功效：提亮膚色、淡化暗沉。
    - 使用建議：搭配保濕霜使用，效果更佳。
-   - 價格：US$70 ≒ NT$2,200 / 30mL
+   - 價格：US$70 ≈ NT$2,200 / 30mL
 
    ![LifeRegen Juvenate 系列](https://hongsheng.tw/img/liferegen/main/Serum_big_flower1_2.webp "LifeRegen Juvenate 亮膚精華液")
 
 3. **LifeRegen Juvenate重生之秘活顏晚霜**
    - 功效：夜間修護與深層滋養。
    - 使用建議：睡前塗抹，按摩至吸收。
-   - 價格： US$70 ≒ NT$2,200/ 50mL
+   - 價格： US$70 ≈ NT$2,200/ 50mL
 
    ![LifeRegen Juvenate 系列](https://hongsheng.tw/img/liferegen/main/NightCreamFloral.webp "LifeRegen Juvenate 修護晚霜")
 

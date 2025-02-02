@@ -11,7 +11,8 @@ GI Balance和諧益腸膠囊是一款革命性的產品，基於最新的細胞�
 
 <!--more-->
 
-![GI Balance和諧益腸膠囊](/img/GIflower.webp "GI Balance和諧益腸膠囊")
+![GI Balance和諧益腸膠囊](https://hongsheng.tw/img/liferegen/main/GIflower.webp "GI Balance和諧益腸膠囊")
+![GI Balance和諧益腸膠囊](https://hongsheng.tw/img/liferegen/main/GIflower_2.webp "GI Balance和諧益腸膠囊")
 
 ## 主要特點
 
