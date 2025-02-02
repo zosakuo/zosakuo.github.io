@@ -11,9 +11,9 @@ Innoval是一款前沿健康產品，結合東方中藥智慧與西方尖端科�
 
 <!--more-->
 
-![Innoval產品展示](INNOVALSKU.webp "Innoval")
-![Innoval產品展示](INNOVALSKU_2.webp "Innoval")
-![Innoval產品展示](INNOVALSKU_3.webp "Innoval")
+![Innoval產品展示](https://hongsheng.tw/img/liferegen/main/INNOVALSKU.webp "Innoval")
+![Innoval產品展示](https://hongsheng.tw/img/liferegen/main/INNOVALSKU_2.webp "Innoval")
+![Innoval產品展示](https://hongsheng.tw/img/liferegen/main/INNOVALSKU_3.webp "Innoval")
 
 ## 主要特點
 
