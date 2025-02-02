@@ -12,7 +12,7 @@ LifeRegen 專注於結合科學與自然的高效護膚方案，致力於修復�
 
 <!--more-->
 
-![LifeRegen Juvenate 系列](/img/header_liferegen_desktop.webp "LifeRegen Juvenate 系列示意圖")
+![LifeRegen Juvenate 系列](https://hongsheng.tw/img/header_liferegen_desktop.webp "LifeRegen Juvenate 系列示意圖")
 
 ## 產品特色
 
